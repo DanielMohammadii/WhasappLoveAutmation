@@ -8,7 +8,7 @@ def send_love():
     message = client.messages.create( 
                                 from_='whatsapp:+14111111',  
                                 body='This is Daniel\'s robot',      
-                                to='whatsapp:+393892551792' 
+                                to='whatsapp:+354547999668' 
                             ) 
     
     print(message.sid)
